@@ -1,0 +1,19 @@
+Member ID,Date,Tenure,Monthly Charges,Total Charges,Senior Citizen,Partner,Dependents,Contract,Internet Service,Probability,Prediction
+1,2026-09-11,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
+2,2026-09-11,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
+3,2026-09-11,5,100.0,840.0,Yes,Yes,No,Month-to-month,DSL,79.56034823445442,Churn
+4,2026-09-11,5,100.0,840.0,Yes,Yes,No,Month-to-month,DSL,79.56034823445442,Churn
+5,2026-09-11,5,100.0,840.0,Yes,Yes,No,Month-to-month,DSL,79.56034823445442,Churn
+6,2026-09-11,5,100.0,840.0,Yes,Yes,No,Month-to-month,DSL,79.56034823445442,Churn
+7,2026-09-11,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
+8,2026-09-11,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
+9,2026-09-11,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
+10,2026-09-21,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
+11,2026-09-21,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
+12,2026-10-10,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
+13,2026-10-10,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
+14,2026-10-10,12,70.0,840.0,Yes,No,No,Month-to-month,DSL,56.6177280629624,Churn
+15,2026-10-10,12,70.0,840.0,Yes,No,No,Month-to-month,DSL,56.6177280629624,Churn
+16,2026-10-21,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
+17,2026-10-22,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
+18,2026-10-22,12,70.0,840.0,No,No,No,Month-to-month,DSL,47.62476913657756,Not Churn
